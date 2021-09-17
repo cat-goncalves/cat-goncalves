@@ -13,11 +13,14 @@ As a first generation American, leaving every environment better than I found it
 
 ## Check out [My Portfolio](https://slot-machine.catgoncalves.com/) 💻
 
-https://github-readme-stats.vercel.app/api?username={cat-goncalves}  
-![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cat-goncalves&theme=synthwave&show_icons=true&count_private=true “Cat’s GutHub Stats”)
+[![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=cat-goncalves)](https://github.com/cat-goncalves/github-readme-stats)
+ 
+[![Cat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-goncalves&layout=compact)](https://github.com/cat-goncalves/github-readme-stats)
+
 
 ## Let's Connect 🌍:
 <a href="https://www.linkedin.com/in/cat-goncalves"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/cgoncalvesdev">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
 
+# cat-goncalves
