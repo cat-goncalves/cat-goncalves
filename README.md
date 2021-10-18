@@ -10,14 +10,14 @@
 - 💬 Ask me about ... my wine studies 🍷
 - 😄 Pronouns: ... she / her / hers
 
-## Hey, there! 
+## Hey, there! 👋🏼 
 
 Thanks for stopping by!
 
 #### A little about me
-```
+
 At my core I am a passionate problem solver and unwavering optimist. I believe that all obstacles can be viewed as welcome challenges and I am always looking for away to improve my environment and community. Coming from a background in Hospitality Management, I regularly relied on this skill and outlook. Today, in tech I am passionate about creating user-focused applications that dynamically value for the folks that use them. My innovative drive paired with my experience in management and team-driven workspaces are assets that I look forward to bringing to my role as your next Software Engineer.
-```
+
 
 ## Check out My Portfolio at [catgoncalves.com](https://slot-machine.catgoncalves.com/) 💻
 
