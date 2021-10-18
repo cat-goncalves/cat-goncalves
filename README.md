@@ -5,8 +5,8 @@
 <a href="https://www.linkedin.com/in/cat-goncalves"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://twitter.com/cgoncalvesdev">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
 
-- 📲 Software Engineer @ Resilient Coders
-- 💻 Currently working on:... an app to digitize family recipes
+- 💻 Software Engineer @ Resilient Coders
+- 📲 Currently working on:... an app to digitize family recipes
 - 💬 Ask me about ... my wine studies 🍷
 - 😄 Pronouns: ... she / her / hers
 
