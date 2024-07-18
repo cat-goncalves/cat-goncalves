@@ -7,7 +7,7 @@
 
 - 💻 Software Engineer
 - 📲 Currently working on:... an app to digitize family recipes
-- 💬 Ask me about ... my my recent travels ✈️ and wine studies 🍷
+- 💬 Ask me about ... my recent travels ✈️ and wine studies 🍷
 - 😄 Pronouns: ... she / her / hers
 
 ## Hey, there! 👋🏼 
